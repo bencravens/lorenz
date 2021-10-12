@@ -1,2 +1,2 @@
-# houseprices
-Jupyter notebook investigating some properties of house prices in New Zealand
+# Lorenz
+Jupyter notebook investigating some properties of the Lorenz attractor
