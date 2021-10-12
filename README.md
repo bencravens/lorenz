@@ -1,2 +1,2 @@
 # Lorenz
-Jupyter notebook investigating some properties of the Lorenz attractor
+Jupyter notebook investigating some properties of the Lorenz attractor.
